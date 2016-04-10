@@ -1,0 +1,211 @@
+Apr 07, 2016 4:23:55 PM Webserver.WebServlet run
+INFO: Request: 
+GET / HTTP/1.1Host: localhost:8080User-Agent: curl/7.48.0Accept: */*
+Apr 07, 2016 4:23:56 PM Webserver.WebServlet httpGet
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Thu, 07 Apr 2016 22:23:56 GMT
+Content-type: text/html
+Content-length: 173
+Server: Skynet Webserver 1.0
+
+
+Apr 07, 2016 9:24:05 PM Webserver.WebServlet run
+INFO: Request: 
+GET / HTTP/1.1Host: localhost:8080
+User-Agent: curl/7.48.0
+Accept: */*
+
+
+Apr 07, 2016 9:24:05 PM Webserver.WebServlet httpGet
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Fri, 08 Apr 2016 03:24:05 GMT
+Content-type: text/html
+Content-length: 173
+Server: Skynet Webserver 1.0
+
+
+Apr 07, 2016 9:25:23 PM Webserver.WebServlet run
+INFO: Request: 
+GET / HTTP/1.1Host: localhost:8080
+User-Agent: curl/7.48.0
+Accept: */*
+
+
+Apr 07, 2016 9:25:23 PM Webserver.WebServlet httpGet
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Fri, 08 Apr 2016 03:25:23 GMT
+Content-type: text/html
+Content-length: 173
+Server: Skynet Webserver 1.0
+
+Apr 07, 2016 9:45:48 PM Webserver.WebServlet run
+INFO: Request: 
+POST / HTTP/1.1Host: localhost:8080
+User-Agent: curl/7.48.0
+Accept: text/html
+Content-Length: 18
+Content-Type: application/x-www-form-urlencoded
+
+
+Apr 07, 2016 9:49:04 PM Webserver.WebServlet run
+INFO: Request: 
+POST / HTTP/1.1
+Host: localhost:8080
+User-Agent: curl/7.48.0
+Accept: text/html
+Content-Length: 18
+Content-Type: application/x-www-form-urlencoded
+
+
+Apr 07, 2016 10:10:21 PM Webserver.WebServlet run
+INFO: Request: 
+POST / HTTP/1.1
+Host: localhost:8080
+User-Agent: curl/7.48.0
+Accept: text/html
+Content-Length: 18
+Content-Type: application/x-www-form-urlencoded
+
+
+Apr 07, 2016 10:12:36 PM Webserver.WebServlet run
+INFO: Request: 
+POST / HTTP/1.1
+Host: localhost:8080
+User-Agent: curl/7.48.0
+Accept: text/html
+Content-Length: 18
+Content-Type: application/x-www-form-urlencoded
+
+
+Apr 07, 2016 10:40:56 PM Webserver.WebServlet run
+INFO: Request: 
+POST / HTTP/1.1
+Host: localhost:8080
+User-Agent: curl/7.48.0
+Accept: text/html
+Content-Length: 18
+Content-Type: application/x-www-form-urlencoded
+
+
+Apr 07, 2016 10:40:56 PM Webserver.WebServlet httpPost
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Fri, 08 Apr 2016 04:40:56 GMT
+Content-Type: text/html 
+Content-Length: 126
+Server: Skynet Webserver 1.0
+
+Apr 07, 2016 10:45:20 PM Webserver.WebServlet run
+INFO: Request: 
+POST / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 19
+Accept: text/html
+Cache-Control: no-cache
+Origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Postman-Token: cac508ab-8287-9f4c-c6bd-27d80b8b3790
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8,es;q=0.6
+
+
+Apr 07, 2016 10:45:20 PM Webserver.WebServlet httpPost
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Fri, 08 Apr 2016 04:45:20 GMT
+Content-Type: text/html 
+Content-Length: 127
+Server: Skynet Webserver 1.0
+
+Apr 08, 2016 3:11:28 PM Webserver.WebServlet run
+INFO: Request: 
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Postman-Token: 7ec31ede-a951-8980-1b2e-b9d628f33bbe
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,es;q=0.6
+
+
+Apr 08, 2016 3:11:29 PM Webserver.WebServlet httpGet
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Fri, 08 Apr 2016 21:11:29 GMT
+Content-Type: text/html
+Content-Length: 173
+Server: Skynet Webserver 1.0
+
+Apr 08, 2016 3:12:02 PM Webserver.WebServlet run
+INFO: Request: 
+GET /log.txt HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Postman-Token: 92d7e669-4798-0e5b-ab8f-f7cce470268a
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,es;q=0.6
+
+
+Apr 08, 2016 3:13:07 PM Webserver.WebServlet run
+INFO: Request: 
+GET /log.txt HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/plain
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Postman-Token: 66eea348-17b6-78d3-a152-8d9245d1d5af
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,es;q=0.6
+
+
+Apr 08, 2016 3:13:07 PM Webserver.WebServlet httpGet
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Fri, 08 Apr 2016 21:13:07 GMT
+Content-Type: text/plain
+Content-Length: 4563
+Server: Skynet Webserver 1.0
+
+Apr 08, 2016 3:13:46 PM Webserver.WebServlet run
+INFO: Request: 
+POST / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 19
+Accept: text/html
+Cache-Control: no-cache
+Origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+Postman-Token: 5f2f1241-de03-2382-3f38-1fbe4c35bb75
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8,es;q=0.6
+
+
+Apr 08, 2016 3:13:46 PM Webserver.WebServlet httpPost
+INFO: 
+Response: 
+HTTP/1.1 200 OK 
+Date: Fri, 08 Apr 2016 21:13:46 GMT
+Content-Type: text/html 
+Content-Length: 127
+Server: Skynet Webserver 1.0
+
